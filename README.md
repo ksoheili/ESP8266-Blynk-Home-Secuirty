@@ -3,7 +3,7 @@
 
 This page is pending an update.
 
-![alt text](https://raw.githubusercontent.com/ksoheili/ESP8266-Blynk-Home-Secuirty/main/Base.png)
+![alt text](https://raw.githubusercontent.com/ksoheili/ESP8266-Blynk-Home-Secuirty/main/placeholder.png)
 
 
 ## Cost
