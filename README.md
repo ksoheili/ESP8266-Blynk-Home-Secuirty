@@ -1,7 +1,6 @@
 
 # ESP8266 Blynk Home Security System
 
-This page is pending an update.
 
 ![alt text](https://raw.githubusercontent.com/ksoheili/ESP8266-Blynk-Home-Secuirty/main/1.png)
 ![alt text](https://raw.githubusercontent.com/ksoheili/ESP8266-Blynk-Home-Secuirty/main/2.png)
